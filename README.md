@@ -27,10 +27,13 @@ This project is a basic implementation using the Re.video library. It demonstrat
 ### Installation
 
 1. Clone the repository:
+
    ```bash
-   git clone https://github.com/yourusername/revideo-basic-project.git
-   cd revideo-basic-project
+   git clone https://github.com/thefarhanahmad/re-video-project.git
+
+   cd re-video-project
    ```
+
 2. Install the dependencies:
    ```bash
    npm install
